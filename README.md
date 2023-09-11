@@ -1,4 +1,4 @@
-# All SIEM AND Logging Labs/Challenges I've Completed on THM
+# All SIEM & Logging Labs/Challenges I've Completed on THM
 
 ## Intro to SIEM
 
